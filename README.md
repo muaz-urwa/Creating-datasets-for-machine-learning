@@ -6,9 +6,9 @@ This repository contains some scripts that I have used for data collection from 
 
 #### Road image dataset from Open Street Cam [notebook](https://github.com/muaz-urwa/Creating-datasets-for-machine-learning/blob/master/Create%20road%20Image%20Dataset%20from%20Open%20Street%20Cam.ipynb)
 This notebook does the following:
-    - Get geo coordinates along the roads in New york from new york streets shape file
-    - Uses these coordinates to extract relevant track ids from open street cam
-    - Extracts and saves images from these track ids.
+- Get geo coordinates along the roads in New york from new york streets shape file
+- Uses these coordinates to extract relevant track ids from open street cam
+- Extracts and saves images from these track ids.
 
 #### Road image dataset from Google Street View [notebook](https://github.com/muaz-urwa/Creating-datasets-for-machine-learning/blob/master/Create%20road%20image%20dataset%20from%20Google%20Street%20View.ipynb)
 This notebook does the following:
